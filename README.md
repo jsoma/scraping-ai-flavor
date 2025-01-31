@@ -1,4 +1,4 @@
-# Advanced Scraping with Playwright
+# Advanced Scraping with Playwright - with AI flavor!
 
 These are the notes for the [Advanced scraping with Playwright - with AI flavor!](https://www.eventbrite.com/e/advanced-web-scraping-with-ai-flavor-lede-2025-info-session-tickets-1220984580749?aff=oddtdtcreator) session, which was a sample class and info session hosted by [Professor Jonathan Soma](https://jonathansoma.com/) for the [Lede Program](https://ledeprogram.com/), a summer data journalism intensive at Columbia Journalism School.
 
